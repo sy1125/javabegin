@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûš¾ÿÿÿÿÿ8ŞÒÓÒå1J$88d0fad0-1bc5-4241-9c81-f78bba23b191
+‘
+java:S1128"IRemove this unused import 'io.nextree.java.travelClub.entity.TravleClub'.(‹ÓÌııÿÿÿÿ8åÒÓÒå1J$ae6fcf03-caa4-4208-bb8d-98b0c8ee3d99
+
+java:S1128"ERemove this unused import 'io.nextree.java.travelClub.util.DateUtil'.(ÁƒõÎıÿÿÿÿ8æÒÓÒå1J$ef39b7b1-29c7-4a1f-ac4a-1d1627cf765f

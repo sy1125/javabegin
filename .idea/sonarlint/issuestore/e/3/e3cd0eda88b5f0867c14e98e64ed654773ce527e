@@ -1,0 +1,30 @@
+
+ 	java:S135V"YReduce the total number of break and continue statements in this loop to use at most one.(οÿÿÿÿÿ8άÒ–σε1J$fdfb0516-da40-4b43-8771-89175dc21cbc
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΪΣΟΒϊÿÿÿÿ8ήÒ–σε1J$46f758c9-e5ef-4953-aefe-69fa92d30cfa
+
+java:S2259o"HA "NullPointerException" could be thrown; "targetClub" is nullable here.(¦Ω½όÿÿÿÿ8ϋÒ–σε1J$8670d243-b445-4be3-ae17-05063a90a4b8
+
+java:S2259}"HA "NullPointerException" could be thrown; "targetClub" is nullable here.(ν·ϊÿÿÿÿ8ϋÒ–σε1J$81ebc97a-aa0c-4d84-8931-ba0aa19f48f0
+‘
+java:S2259€"HA "NullPointerException" could be thrown; "targetClub" is nullable here.(ζ¨Νωÿÿÿÿ8¦“™σε1J$6ea9a137-ab19-4e89-9b61-20172f6f9b63
+‹
+java:S2259v"HA "NullPointerException" could be thrown; "targetClub" is nullable here.(· 8ϋÒ–σε1J$725891a0-03fe-4f11-9ce6-03c6f854554d
+
+java:S2259s"HA "NullPointerException" could be thrown; "targetClub" is nullable here.(°Ζ€ώÿÿÿÿ8ϋÒ–σε1J$f49df92a-3d0d-470a-96fd-25b1a0cc05fe
+d
+java:S1116"Remove this empty statement.(τμϊÿÿÿÿ8ώÒ–σε1J$deaf2463-f04b-48f1-9cfa-5ca75711b78b
+m	java:S106!"+Replace this use of System.out by a logger.(ν”ά£8€Σ–σε1J$df8f573f-2db6-4070-afaf-f537a212544b
+m	java:S106("+Replace this use of System.out by a logger.(ΫώΞ°8Σ–σε1J$12bf134b-f46a-488f-8c9b-64641ab55c47
+m	java:S106,"+Replace this use of System.out by a logger.(Ύª—8Σ–σε1J$aee3f41c-609a-4900-a094-6095453b87e3
+r	java:S106:"+Replace this use of System.out by a logger.(Παÿÿÿÿÿ8‚Σ–σε1J$70458ad3-e640-4af7-a4d7-a70c7c342ff6
+r	java:S106<"+Replace this use of System.out by a logger.(©λΈ«ωÿÿÿÿ8ƒΣ–σε1J$a57dba7a-77e4-433b-a785-b2982e0d5ea4
+m	java:S106K"+Replace this use of System.out by a logger.(ξΉ°³8„Σ–σε1J$14c02bf8-0ef6-4ebd-afda-0a5886735c38
+r	java:S106N"+Replace this use of System.out by a logger.(ί•Βυψÿÿÿÿ8„Σ–σε1J$7e1ec6b8-f550-4de0-a055-1bdef93f36f6
+r	java:S106a"+Replace this use of System.out by a logger.(©λΈ«ωÿÿÿÿ8„Σ–σε1J$c3eaa4a8-bc5d-49bc-a4c3-89c71fa20322
+m	java:S106v"+Replace this use of System.out by a logger.(· 8†Σ–σε1J$36f7dac3-c429-4a88-af68-df66b605f214
+¦
+java:S1157|"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ΫΜηε8‡Σ–σε1J$10958bfe-b558-48a0-8eb8-dd61ae8383e1
+¦
+java:S1157|"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ΫΜηε8‡Σ–σε1J$780e01d8-3d7d-4681-a451-182c94b0b812
+r	java:S106}"+Replace this use of System.out by a logger.(ν·ϊÿÿÿÿ8Σ–σε1J$39605dda-2178-41c1-bfee-fda3299380da
+s	java:S106€"+Replace this use of System.out by a logger.(ζ¨Νωÿÿÿÿ8‡Δσε1J$d451600f-3fe8-4eaa-8ecd-209dbddc8bb3

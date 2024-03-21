@@ -1,0 +1,8 @@
+
+ª
+java:S1488A"bImmediately return this expression instead of assigning it to the temporary variable "sampleClub".(ø„úÀýÿÿÿÿ8ÖÈ†¨å1J$e77a59cf-8caf-4eed-8641-658f84d282b6
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óºÀÓ8ØÈ†¨å1J$7cbcaa98-9dc3-4141-9fda-481ca7bffe06
+r	java:S106"+Replace this use of System.out by a logger.(ó²ä†üÿÿÿÿ8éÈ†¨å1J$9b3e29b5-5b98-4f18-a4ce-2fcb3c7ae71f
+m	java:S106,"+Replace this use of System.out by a logger.(÷’ëÎ8ìÈ†¨å1J$f3ef3608-5b4f-4ec5-9fba-bbe21b8b73cf
+s
+java:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ8ñÈ†¨å1J$3e3f75f5-03b0-46fa-82a0-817ae91774e8
